@@ -5,7 +5,7 @@
 
 ### 🧠 À propos de moi
 
-- 🎓 Étudiant en L3 Informatique  
+- 🎓 Étudiant L3 en développement d'application internet - intranet
 - 💻 Je travaille sur divers projets web & backend  
 - 📱 Je développe aussi des applications mobiles Android  
 - 🔭 Je maîtrise des stacks variées allant du frontend au backend jusqu’au DevOps  
