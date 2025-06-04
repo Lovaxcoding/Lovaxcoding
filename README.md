@@ -77,8 +77,8 @@
 ---
 
 ### 📫 Me contacter
-- 📧 Email : [lnantenaina@email.com]
-- 💼 LinkedIn : [linkedin.com/in/LovasoaNantenaina]
+- 📧 Email : lnantenaina@email.com
+- 💼 LinkedIn : linkedin.com/in/LovasoaNantenaina
 
 ---
 
