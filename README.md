@@ -5,7 +5,8 @@
 
 ### 🧠 À propos de moi
 
-- 🎓 Étudiant L3 en développement d'application internet - intranet
+- 🎓 Détenant une Licence en développement d'application internet - intranet
+- 💼 Etudiant en Master en Ingenierie Geospatiale et Technologie d'Information
 - 💻 Je travaille sur divers projets web & backend  
 - 📱 Je développe aussi des applications mobiles Android  
 - 🔭 Je maîtrise des stacks variées allant du frontend au backend jusqu’au DevOps  
