@@ -1,87 +1,183 @@
-<h1 align="center">👋 Bonjour, je suis Lovasoa Nantenaina</h1>
-<h3 align="center">Développeur Full Stack Web & Mobile | Passionné par la tech, les projets ambitieux et l'innovation</h3>
+<h1 align="center"> Hello, I'm Lovasoa Nantenaina</h1>
 
----
-
-### 🧠 À propos de moi
-
-- 🎓 Détenant une Licence en développement d'application internet - intranet
-- 💼 Etudiant en Master en Ingenierie Geospatiale et Technologie d'Information
-- 💻 Je travaille sur divers projets web & backend  
-- 📱 Je développe aussi des applications mobiles Android  
-- 🔭 Je maîtrise des stacks variées allant du frontend au backend jusqu’au DevOps  
-- 💬 N’hésite pas à me contacter pour discuter ou collaborer !
-
----
-
-## 🚀 Stack & Outils Techniques
-
-### 🔤 Langages
-<p>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Engineer;Mobile+Developer;Geospatial+Engineer;SaaS+Architect;Building+Scalable+Digital+Systems" />
 </p>
 
-### 🌐 Frontend / CMS
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+<h3 align="center">
+Full Stack Engineer • Mobile Developer • Geospatial Engineer
+</h3>
+
+<p align="center">
+Building scalable SaaS platforms, intelligent systems and digital experiences.
 </p>
 
-### 🧩 Backend / API
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-4CAF50?style=for-the-badge&logo=codeigniter&logoColor=white" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,ts,python,php,java,dart,godot,postgres,figma" />
 </p>
 
-### 🗄️ Serveur / Base de données
-<p>
-  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-
-### 🧰 Outils & DevOps
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI/CD-0A0?style=for-the-badge&logo=gitlab&logoColor=white" />
-  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Lovaxcoding&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://img.shields.io/github/followers/Lovaxcoding?label=Followers&style=social" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+# 🚀 About Me
 
-###
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lovaxcoding&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lovaxcoding&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+🎓 **Education**
 
-###
+- Bachelor's Degree in **Internet & Intranet Application Development**
+- Currently pursuing a **Master's in Geospatial Engineering & Information Technology**
+
+💡 **What I Do**
+
+- Build **scalable SaaS platforms**
+- Develop **mobile and web applications**
+- Design **robust system architectures**
+- Integrate **AI-powered features**
+- Work with **geospatial data systems**
+
+🧠 **Technical Interests**
+
+- Software Architecture (MVC / Clean / Hexagonal)
+- Cybersecurity & system resilience
+- Intelligent automation systems
+- Spatial data and mapping technologies
 
 ---
 
-### 📫 Me contacter
-- 📧 Email : lnantenaina@email.com
-- 💼 LinkedIn : linkedin.com/in/LovasoaNantenaina
+# ⚡ Currently Building
+
+- 🚀 **Softika MG** — Digital innovation hub
+- 🤖 AI-powered SaaS tools
+- 🌍 Geospatial road monitoring systems
+- 🛠 Open-source developer utilities
 
 ---
 
-*Merci d’avoir visité mon profil ! À bientôt 👋*
+# 🏆 Featured Projects
 
+
+### 💳 Ikash
+Mobile fintech platform for **digital cash point management**.
+
+### 📊 GHR
+Smart web application with 3D features for **hotel and restaurant management**.
+
+### 🏢 Zenith Recruitment
+Complete **recruitment management platform** with admin dashboards.
+
+### 🌍 Lalana
+Geospatial system for **detecting and tracking road potholes** using spatial data.
+
+### 🎮 Delestazy 2D
+Survival game engine inspired by **Madagascar’s energy crisis** built with **Godot**.
+
+---
+
+# 🧰 Core Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,python,php,java,dart,godot" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,astro,tailwind" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,django,laravel,spring" />
+</p>
+
+### Mobile
+
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,dart" />
+</p>
+
+### Database & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker,nginx,git,linux" />
+</p>
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lovaxcoding&layout=compact&theme=tokyonight" width="48%" />
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lovaxcoding&theme=tokyonight" width="100%" />
+
+</p>
+
+<p align="center">
+
+</p>
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lovaxcoding&theme=tokyo-night" width="100%" />
+
+</p>
+
+---
+
+# 🧠 Core Expertise
+
+✔ SaaS Architecture  
+✔ Multi-Tenant Systems  
+✔ Mobile Development (Flutter)  
+✔ API Design & Microservices  
+✔ Geospatial Data Systems  
+✔ Database Optimization  
+
+---
+
+# 📬 Contact
+
+<p>
+
+<a href="mailto:lnantenaina@email.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/LovasoaNantenaina">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Lovaxcoding">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<i>"Designing the future, one line of code at a time."</i>
+
+</p>
+
+<p align="center">
+
+📍 Madagascar 🇲🇬 • Open for collaboration
+
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer"/>
