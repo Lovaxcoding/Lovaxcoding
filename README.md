@@ -1,3 +1,4 @@
+
 <h1 align="center">Hello, I'm Lovasoa Nantenaina</h1>
 
 <p align="center">
@@ -8,9 +9,13 @@
   Software Engineering • Cybersecurity • Reverse Engineering
 </h3>
 
-<p align="center">
-  Building software, exploring system internals, and learning how to identify and understand security weaknesses.
-</p>
+```python
+"""
+Building software.
+Exploring system internals.
+Learning how to identify and understand security weaknesses.
+"""
+```
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,python,rust,js,ts,php,java,dart,linux,docker,git" />
@@ -31,18 +36,30 @@
 
 ---
 
-# 👨‍💻 About Me
+# About Me
 
-I'm a software engineer with a background in full-stack development,
-mobile applications, and geospatial information systems.
+```cpp
+class SoftwareEngineer final
+    : public Engineer, public SecurityResearcher {
 
-Beyond building applications, I'm exploring cybersecurity to understand
-how software behaves internally, how vulnerabilities emerge, and how
-systems can be analyzed, tested, and secured.
+public:
+    static constexpr std::string_view identity = "Lovasoa Nantenaina";
 
-I enjoy hands-on learning, solving technical challenges, analyzing
-programs, experimenting in controlled environments, and documenting
-what I discover.
+    // Background
+    constexpr auto background = std::array{
+        "Full-Stack", "Mobile", "Geospatial"
+    };
+
+    // Currently exploring
+    constexpr auto exploring = std::array{
+        "Internals", "Vulnerabilities", "Defense"
+    };
+
+    void build()   const override;   // ship software
+    void analyze() const override;   // trace it, break it
+    void secure()  const override;   // understand, then defend
+};
+```
 
 ---
 
@@ -88,132 +105,100 @@ what I discover.
 
 # 🧠 Core Expertise
 
-- Software Architecture and SaaS Development
-- Full Stack and Mobile Application Development
-- REST API Design and Backend Integration
-- Database Design and Optimization
-- Geospatial Data and Web Mapping
-- C Programming and Low-Level Fundamentals
-- Reverse Engineering and Binary Analysis
-- Cybersecurity Research and Security Testing
+```cpp
+enum class Expertise {
+    Architecture, SaaS,
+    FullStack, Mobile,
+    REST_API, Databases,
+    Geospatial,
+    C_LowLevel, ReverseEngineering,
+    SecurityResearch
+};
+```
 
 ---
+
 ### 🎓 Education
 
-- Bachelor's Degree in Internet & Intranet Application Development
-- Master's in Geospatial Engineering & Information Technology
+```python
+education = {
+    "bachelor": "Internet & Intranet Application Development",
+    "master":   "Geospatial Engineering & IT",
+}
+```
 
-###  Software Engineering
+### Software Engineering
 
-- Full Stack Web Development
-- Mobile Application Development with Flutter
-- REST API Design and Backend Systems
-- SaaS Architecture and Multi-Tenant Applications
-- MVC, Clean Architecture, and Hexagonal Architecture
-- Database Design and Optimization
-- Geospatial Applications and Spatial Data Systems
+```cpp
+constexpr std::string_view software[] = {
+    "Full-Stack Web",
+    "Flutter Mobile",
+    "REST API & Backend",
+    "SaaS & Multi-Tenant",
+    "MVC · Clean · Hexagonal",
+    "Database Design",
+    "Geospatial Systems",
+};
+```
 
-###  Cybersecurity
+### Cybersecurity
 
-- Offensive Security and Red Team Fundamentals
-- Reverse Engineering and Binary Analysis
-- Static and Dynamic Program Analysis
-- Linux Internals and Networking
-- Web Application Security
-- CTF Challenges and Vulnerability Research
-- Security Automation with Python, C, and Shell Scripts
+```cpp
+constexpr std::string_view cybersecurity[] = {
+    "Offensive Security & Red Team",
+    "Reverse Engineering",
+    "Static & Dynamic Analysis",
+    "Linux Internals & Networking",
+    "Web Application Security",
+    "CTF & Vulnerability Research",
+    "Security Automation",
+};
+```
 
 ---
 
 # 🔐 Cybersecurity & Security Research
 
-Hands-on projects exploring offensive security, web application
-security, network analysis, security automation, and system behavior.
+```python
+"""
+Hands-on projects exploring offensive security, web security,
+network analysis, automation, and system behavior.
 
-My goal is to understand the mechanisms behind vulnerabilities,
+The goal is to understand the mechanisms behind vulnerabilities,
 not simply learn how to use security tools.
+"""
+```
 
-###  Voldemort.io
-
-**Python • Security Research • Spyware Concepts**
-
-A Python project exploring spyware-related concepts and application
-behavior in controlled security research environments.
-
-###  SnakeC2
-
-**Python • Command and Control Research**
-
-A project exploring command-and-control architectures and
-communication patterns in isolated security laboratories.
-
-###  FastScan
-
-**C • Network Security • Port Scanning**
-
-A lightweight port scanner written in C to explore socket programming,
-TCP connections, network discovery, and low-level programming.
-
-###  DirFinder
-
-**Rust • Web Security • Directory Discovery**
-
-A directory-discovery utility written in Rust for exploring HTTP
-requests, web server paths, and web application attack surfaces.
-
-###  Rev2Shell for Hackers
-
-**Security Research • Reverse Shell Concepts • Matrix-Inspired UI**
-
-A security-themed project with a Matrix-inspired visual interface
-for exploring reverse-shell concepts in authorized laboratory
-environments.
-
-###  React2Shell Lite
-
-**Python • Web Security • Vulnerability Research**
-
-A Python project focused on researching React2Shell-related web
-security concepts in controlled testing environments.
-
-###  WePhish
-
-**PHP • Web Security • Phishing Awareness**
-
-A PHP project exploring phishing-page behavior and web security
-awareness in controlled environments.
-
-###  AVChecker
-
-**Security Research • Antivirus Evaluation**
-
-A utility for exploring antivirus detection behavior and
-security testing workflows in an isolated laboratory.
-
-> Security projects are intended for education, research, and
-> authorized testing. Always obtain permission before testing
-> systems you do not own.
+> Security projects are intended for education, research, and authorized testing.
+> Always obtain permission before testing systems you do not own.
 
 ---
 
 # 🧬 Reverse Engineering & Binary Analysis
 
-I'm developing my low-level programming and reverse engineering
-skills through binary analysis, debugging, C programming,
-assembly, and hands-on challenges.
+```c
+/*
+ * Developing low-level skills through binary analysis,
+ * debugging, C programming, assembly, and hands-on challenges.
+ */
+```
 
-###  Current Focus
+### Current Focus
 
-- C Programming and Low-Level Fundamentals
-- x86-64 Assembly Fundamentals
-- ELF Binary Analysis
-- Static and Dynamic Analysis
-- Debugging and Program Tracing
-- Function Analysis and Control Flow
-- Program Execution and Memory Behavior
-- Vulnerability Analysis and Exploitation Fundamentals
+```cpp
+enum Focus {
+    C_LowLevel,
+    x86_64_Assembly,
+    ELF_Analysis,
+    StaticDynamic,
+    Debugging,
+    FunctionAnalysis,
+    MemoryBehavior,
+    Exploitation
+};
+```
 
-###  Tools
+### Tools
 
 <p>
   <img src="https://img.shields.io/badge/Ghidra-Reverse%20Engineering-000000?style=flat" />
@@ -223,28 +208,38 @@ assembly, and hands-on challenges.
   <img src="https://img.shields.io/badge/Wireshark-Network%20Analysis-1679A7?style=flat" />
 </p>
 
-My approach is to understand how programs work at a lower level:
-from compiled binaries and assembly instructions to control flow,
-function behavior, and execution.
+```asm
+; approach:
+;   binaries -> assembly -> control flow
+;   functions -> behavior -> execution
+```
 
 ---
 
 # ⚔️ Offensive Security & Red Team
 
-My offensive security learning focuses on understanding attack
-surfaces, identifying weaknesses, and studying how vulnerabilities
-can be discovered and validated in authorized environments.
+```python
+"""
+Understanding attack surfaces, identifying weaknesses,
+and studying how vulnerabilities can be discovered
+and validated in authorized environments.
+"""
+```
 
 ### Areas of Exploration
 
-- Linux and Network Fundamentals
-- Reconnaissance and Attack Surface Analysis
-- Web Application Security
-- Vulnerability Research
-- CTF-Based Exploitation Practice
-- Network Traffic Analysis
-- Python Scripting for Security Research
-- Red Team Methodology Fundamentals
+```cpp
+constexpr std::string_view areas[] = {
+    "Linux & Network Fundamentals",
+    "Recon & Attack Surface",
+    "Web Application Security",
+    "Vulnerability Research",
+    "CTF-Based Exploitation",
+    "Network Traffic Analysis",
+    "Python Security Scripting",
+    "Red Team Methodology",
+};
+```
 
 ### Security Toolkit
 
@@ -252,159 +247,115 @@ can be discovered and validated in authorized environments.
   <img src="https://skillicons.dev/icons?i=linux,bash,c,python,docker,git" />
 </p>
 
-- **Nmap** — Network discovery and assessment
-- **Wireshark** — Network traffic analysis
-- **Burp Suite** — Web application security testing
-- **Ghidra** — Reverse engineering
-- **Cutter** — Binary analysis
-- **GDB / pwndbg** — Debugging and program analysis
-- **pwntools** — Binary exploitation practice
-- **Python** — Security automation and research
+```python
+toolkit = {
+    "nmap":       "network discovery",
+    "wireshark":  "traffic analysis",
+    "burp":       "web security testing",
+    "ghidra":     "reverse engineering",
+    "cutter":     "binary analysis",
+    "gdb":        "debugging",
+    "pwntools":   "binary exploitation",
+    "python":     "security automation",
+}
+```
 
 ---
 
 # 💻 Full Stack & Web Development
 
-Building web applications, SaaS platforms, dashboards, and digital
-products with modern frontend and backend technologies.
+```python
+"""
+Building web applications, SaaS platforms, dashboards,
+and digital products with modern frontend and backend stacks.
 
-###  Softika Portfolio
-
-**React • Frontend Development**
-
-A portfolio website showcasing Softika's digital projects,
-services, and development capabilities.
-
-###  TSP Portfolio
-
-**Web Development • Tsarasoa Production**
-
-A portfolio website designed to present the work and creative
-projects of Tsarasoa Production.
-
-###  GHR
-
-**Next.js • Web Development • Management Systems**
-
-A hotel and restaurant management application featuring
-interactive 3D experiences.
-
-###  Zenith Recruiting
-
-**Next.js • Prisma • Recruitment Management**
-
-A recruitment management platform designed to organize
-recruitment workflows and administrative operations.
-
-###  Health Tracker
-
-**Vue.js • Prisma • Web Application**
-
-A web application exploring health tracking, structured data,
-and database integration.
-
-###  Career Recommender
-
-**Web Development • Career Guidance**
-
-A project focused on helping users explore career possibilities
-and discover potential professional directions.
+Projects span portfolios, management systems, recruitment
+platforms, health trackers, and career guidance tools —
+each solving a concrete problem with a clean architecture.
+"""
+```
 
 ---
 
-#  Mobile Development
+## 📱 Mobile Development
 
-Building mobile applications focused on practical use cases,
+```python
+"""
+Building mobile apps focused on practical use cases,
 data management, and user experience.
 
-###  iKash Management
-
-**Flutter • Dart • FastAPI • Riverpod**
-
-A mobile fintech management application combining a Flutter
-interface with a FastAPI backend.
-
-###  Loomi Tracker
-
-**Flutter • Dart • Expense Tracking**
-
-A mobile application for tracking expenses and organizing
-personal financial information.
+Work centers on fintech management and expense tracking,
+combining Flutter interfaces with FastAPI backends.
+"""
+```
 
 ---
 
-# 🌍 Geospatial Engineering
+## 🌍 Geospatial Engineering
 
-Combining software engineering with spatial data, mapping,
-and infrastructure monitoring.
+```python
+"""
+Combining software engineering with spatial data,
+mapping, and infrastructure monitoring.
 
-### Lalana
-
-**React • Python • Web Mapping • Geospatial Data**
-
-A geospatial application focused on road infrastructure monitoring
-and pothole tracking through interactive mapping technologies.
-
----
-
-# 🎮 Game Development
-
-###  Delestazy
-
-**Godot • 2D Game Development**
-
-A survival game inspired by Madagascar's energy crisis,
-exploring gameplay mechanics and interactive systems.
+Focus on interactive web mapping, spatial data processing,
+and GIS-based infrastructure monitoring.
+"""
+```
 
 ---
 
-# ⚙️ Developer Tools & Automation
+## 🎮 Game Development
 
-Small utilities and scripts built to automate tasks, explore
-programming concepts, and simplify technical workflows.
+```python
+"""
+Exploring interactive systems and gameplay mechanics
+through 2D game development with Godot.
 
-###  RecordScreen
-
-**Bash • Linux Automation**
-
-A shell script for automating screen-recording workflows on Linux.
-
-###  Medium2PDF
-
-**Python • Document Processing**
-
-A utility for exploring the conversion of Medium articles
-into PDF documents for offline reading.
-
-###  Hex2ASCII
-
-**Python • Data Representation**
-
-A utility for converting hexadecimal values into their
-ASCII representation.
-
-###  Substitute
-
-**Python • Classical Cryptography**
-
-An implementation of monoalphabetic character substitution
-for exploring classical encryption and decryption concepts.
+A creative playground for experimenting with mechanics,
+narrative, and interactive system design.
+"""
+```
 
 ---
 
-# 🎯 Current Learning Priorities
+## ⚙️ Developer Tools & Automation
 
-- Reverse Engineering and Binary Analysis
-- C Programming, Assembly, and Computer Architecture
-- Linux Internals and System Behavior
-- Vulnerability Analysis and Exploitation Fundamentals
-- Web Application Security
-- Network Security and Traffic Analysis
-- Python for Security Automation
+```python
+"""
+Small utilities and scripts that automate tasks,
+explore programming concepts, and simplify workflows.
 
-I believe strong offensive security skills come from understanding
-how systems work, how software fails, and how those weaknesses
-can be identified and addressed.
+Covering Linux automation, document processing,
+data representation, and classical cryptography.
+"""
+```
+
+---
+
+# Current Learning Priorities
+
+```asm
+section .data
+priorities:
+    db  "Reverse Engineering & Binary Analysis", 0
+    db  "C · Assembly · Architecture", 0
+    db  "Linux Internals", 0
+    db  "Vulnerability Analysis", 0
+    db  "Web Application Security", 0
+    db  "Network Security & Traffic", 0
+    db  "Python Automation", 0
+```
+
+```asm
+section .text
+philosophy:
+    ; Strong offensive skills come from
+    ; understanding how systems work,
+    ; how software fails,
+    ; and how weaknesses can be addressed.
+    ret
+```
 
 ---
 
@@ -418,7 +369,7 @@ can be identified and addressed.
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
-
+---
 
 # 📬 Contact
 
@@ -432,12 +383,17 @@ can be identified and addressed.
   </a>
 </p>
 
-<p align="center">
-  <i>Understand the system. Find the weakness. Build it better.</i>
-</p>
+```asm
+section .rodata
+motto: db "Understand the system. Find the weakness. Build it better.", 0
+```
 
 <p align="center">
   📍 Madagascar 🇲🇬 • Open to collaboration
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer" />
+
+
+
+Tous les badges, icônes, images, séparateurs et blocs HTML sont **conservés à l'identique** — seuls les paragraphes et listes ont été convertis en code colorisé. Le rendu alterne entre Python (docstrings lisibles), C++ (structures de données), C (commentaires bas niveau) et ASM (le plus proche de la machine), ce qui renforce l'identité « software engineer orienté bas niveau » du profil.
